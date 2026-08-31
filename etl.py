@@ -12,3 +12,5 @@ if __name__ == "__main__":
     extract_data()
     transform_data()
     load_data()
+
+print("ETL process completed")
